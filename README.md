@@ -27,7 +27,7 @@ The API has the following endpoints:
 | GET    | /students/{id} | Get a specific student by ID                              |
 | POST   | /students      | Create a new student                                      |
 | PUT    | /students/{id} | Update an existing student by ID                          |
-| DELETE | /students/{id} | Delete an existing student by ID and returns the deleted student |
+| DELETE | /students/{id} | Delete an existing student by ID and returns the deleted student       |
 
 ### Student Object
 
